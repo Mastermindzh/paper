@@ -2,13 +2,18 @@
  * Author: Rick van Lieshout
  * Publication date: 24-09-2015
  * 
- * LICENSE:
+ * LICENSE:	 MIT
  * 
  * 
  * 
  * */
-
-body {
+	img {
+		max-width:100%;
+		height: auto;
+		padding-bottom: 7px;
+	}
+	
+	body {
         background-color: #f2f2f2;
         color: #3B3B3B;
         margin-bottom: 40px;
@@ -69,6 +74,9 @@ body {
 		color: #3B3B3B !important; 
 	}
 	
+	.paper-table{
+		max-width:100%;
+	}
 	.paper-sidebar{
 		border-right:  4px solid #3B3B3B;
 		margin-bottom: 30px;
@@ -172,7 +180,11 @@ body {
 		color:white;
 		text-decoration:none;
 	}
+	.subscribe{
+		padding-bottom: 10px;
+	}
 	
+	/* Mobile styles */
 	@media (max-width: 768px) {
 		body{
 			background-color:white;
