@@ -1,6 +1,6 @@
 # paper
 A modern dark gray / white website theme made with bootstrap
 
-![alt text](http://imgur.com/XwTGQJB "Full size")
+![Full size](http://i.imgur.com/XwTGQJB.png "Full size")
 
-![alt text](http://imgur.com/TNioKbY "mobile size")
+![mobile size](http://i.imgur.com/TNioKbY.png "mobile size")
