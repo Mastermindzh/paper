@@ -67,7 +67,8 @@
 		background:	white;
 		-moz-box-shadow: 0px 2px 3px rgb(200,200,200) ;	
 		-webkit-box-shadow: 0px 2px 3px rgb(200,200,200);	
-		box-shadow: 0px 2px 3px rgb(200,200,200);	
+		box-shadow: 0px 2px 3px rgb(200,200,200);
+		
 	}
 	
 	.paper-dark{
@@ -152,6 +153,7 @@
 	.paper-article-inner{
 		margin-left: 15px; 
 		padding-right: 15px;
+		
 	}
 	.paper-numbers{
 		border-bottom: 4px solid #3B3B3B;
